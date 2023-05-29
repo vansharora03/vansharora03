@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋Hey! I'm Vansh. 
+- I'm currently learning how to build an interpreter in Go 🤓
+- I study at UGA!!! 👨‍🎓
+- I like creating unusual things. 🤔
 
 <!--
 **vansharora03/vansharora03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
