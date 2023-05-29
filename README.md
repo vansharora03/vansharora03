@@ -1,4 +1,4 @@
-### 👋Hey! I'm Vansh.
+### 👋Hey! I'm Vansh (like lunch).
 - I'm currently learning how to build an interpreter in Go 🤓
 - I study at UGA!!! 👨‍🎓
 - I'm the web development chair of ACM @ UGA and maintainer of the website. 🪑
