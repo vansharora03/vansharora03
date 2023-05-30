@@ -3,7 +3,7 @@
 - I study at UGA!!! 👨‍🎓
 - I'm the web development chair of ACM @ UGA and maintainer of the website. 🪑
 - I build websites for UGAHacks. ⚒️
-- I'm always looking for some sweet OSS to contribute to! 🍬
+- I like OSS 🍬
 
 <!--
 **vansharora03/vansharora03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
