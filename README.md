@@ -1,8 +1,4 @@
 ### 👋Hey! I'm Vansh (like lunch).
-- I study at UGA!!! 👨‍🎓
-- I'm the web development chair of ACM @ UGA and maintainer of the website. 🪑
-- I build websites for UGAHacks. ⚒️
-
 <!--
 **vansharora03/vansharora03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
